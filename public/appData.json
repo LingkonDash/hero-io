@@ -1,0 +1,542 @@
+[
+    {
+        "image": "https://i.ibb.co.com/0pgCn6qx/NotePad.webp",
+        "title": "NotePad",
+        "companyName": "SimpleSoft",
+        "id": 1,
+        "description": "NotePad is a versatile and user-friendly application designed for individuals who need a reliable tool to capture and organize their thoughts, ideas, and daily notes. The app allows users to quickly jot down text notes with a minimalistic interface that reduces distractions and maximizes productivity. Users can create multiple notebooks, categorize their notes by topic, and use rich text formatting options including bold, italics, underlines, and bullet points for better organization. NotePad supports multimedia attachments such as images, audio recordings, and PDFs, allowing users to make their notes more interactive and detailed. A robust search functionality ensures that users can find specific notes or keywords instantly, no matter how extensive their collection becomes. Cloud synchronization enables seamless access across smartphones, tablets, and desktop computers while ensuring that notes are safely backed up. Task reminders can be set for individual notes, helping users track deadlines and important events efficiently. NotePad also allows exporting notes in various formats like PDF, TXT, and HTML, making it easy to share information with colleagues, friends, or family. Security features include optional password protection and data encryption, which is particularly useful for storing sensitive information. Overall, NotePad combines simplicity, efficiency, and powerful features, making it suitable for students, professionals, writers, and anyone looking for a reliable digital note-taking solution.",
+        "size": 45,
+        "reviews": 1284,
+        "ratingAvg": 4.6,
+        "downloads": 5600000,
+        "ratings": [
+            { "name": "1 star", "count": 34 },
+            { "name": "2 star", "count": 45 },
+            { "name": "3 star", "count": 112 },
+            { "name": "4 star", "count": 398 },
+            { "name": "5 star", "count": 695 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/7dz2Rmkb/Task-Master.webp",
+        "title": "TaskMaster",
+        "companyName": "EffiTech",
+        "id": 2,
+        "description": "TaskMaster is a productivity application aimed at helping users manage tasks, projects, and goals with ease and efficiency. Designed with a simple and intuitive interface, TaskMaster allows individuals and teams to create tasks, set deadlines, assign priorities, and categorize tasks based on projects or departments. The app supports recurring tasks, subtasks, and detailed notes for each task, ensuring that nothing gets overlooked. TaskMaster also provides a calendar view to visualize upcoming deadlines and a timeline view for managing ongoing projects. Cloud synchronization enables users to access tasks from any device while ensuring that all data remains secure. Notifications and reminders can be customized to alert users at specific times, helping them stay on top of important deadlines. Additionally, TaskMaster supports collaboration, allowing teams to assign tasks, track progress, and comment on tasks in real-time. The app includes performance analytics to review completed tasks, monitor team efficiency, and optimize workflow. With customizable tags, filters, and search options, TaskMaster ensures that users can quickly find relevant tasks and maintain productivity without feeling overwhelmed. Overall, TaskMaster is ideal for individuals, small businesses, and teams seeking a reliable and organized approach to task management.",
+        "size": 52,
+        "reviews": 2043,
+        "ratingAvg": 4.5,
+        "downloads": 7800000,
+        "ratings": [
+            { "name": "1 star", "count": 52 },
+            { "name": "2 star", "count": 65 },
+            { "name": "3 star", "count": 221 },
+            { "name": "4 star", "count": 645 },
+            { "name": "5 star", "count": 1060 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/HL2cGd4z/FitTrack.webp",
+        "title": "FitTrack",
+        "companyName": "HealthWay",
+        "id": 3,
+        "description": "FitTrack is a comprehensive fitness and wellness app designed to help users achieve their health goals through tracking, guidance, and motivation. The app allows users to log daily activities, monitor workouts, and track progress over time. FitTrack supports various fitness activities including running, walking, cycling, swimming, and strength training, offering detailed metrics such as distance, calories burned, heart rate, and duration. Users can set personalized goals, create workout plans, and receive recommendations based on their performance and fitness level. The app also integrates with wearable devices to automatically sync data for accurate tracking. A key feature of FitTrack is its nutrition tracker, which enables users to log meals, track calories, and monitor macronutrients to maintain a balanced diet. FitTrack provides insights and analytics to help users understand trends in their activity, identify areas for improvement, and celebrate achievements. The app includes motivational features such as daily reminders, achievements, and community challenges to keep users engaged and committed to their goals. Privacy and security are ensured through encrypted data storage and optional password protection. FitTrack is suitable for beginners, athletes, and anyone interested in improving overall health and wellness through structured tracking and actionable insights.",
+        "size": 68,
+        "reviews": 3156,
+        "ratingAvg": 4.7,
+        "downloads": 9830000,
+        "ratings": [
+            { "name": "1 star", "count": 38 },
+            { "name": "2 star", "count": 49 },
+            { "name": "3 star", "count": 157 },
+            { "name": "4 star", "count": 1012 },
+            { "name": "5 star", "count": 1900 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/fG8QgzcR/MealPlan.webp",
+        "title": "MealPlan",
+        "companyName": "NutriTech",
+        "id": 4,
+        "description": "MealPlan is a smart meal planning application created to help users design balanced and personalized diets while reducing food waste. The app provides users with tools to generate weekly or monthly meal plans based on dietary preferences, health goals, and budget considerations. MealPlan offers an extensive database of recipes, each with nutritional information, ingredient lists, and step-by-step preparation instructions. Users can customize meals, swap ingredients, and create shopping lists that organize ingredients by store sections for convenience. The app also allows tracking of macronutrients, calories, and portion sizes to ensure dietary goals are met. MealPlan includes reminders for meal preparation and hydration, helping users stay consistent and motivated. Integration with grocery delivery services allows users to order ingredients directly from the app, saving time and minimizing unnecessary trips to the store. The app also supports tracking family meals, making it ideal for households seeking balanced nutrition for all members. MealPlan focuses on simplicity, efficiency, and health-conscious planning, making it suitable for beginners, health enthusiasts, and anyone looking to improve eating habits without stress. Security is a priority, with user data being stored securely and no sharing without consent. The combination of personalized meal suggestions, educational content, and practical planning tools makes MealPlan a reliable companion for healthier living.",
+        "size": 60,
+        "reviews": 2890,
+        "ratingAvg": 4.6,
+        "downloads": 4500000,
+        "ratings": [
+            { "name": "1 star", "count": 40 },
+            { "name": "2 star", "count": 55 },
+            { "name": "3 star", "count": 180 },
+            { "name": "4 star", "count": 870 },
+            { "name": "5 star", "count": 1745 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/84n5zmmZ/Weatherly.webp",
+        "title": "Weatherly",
+        "companyName": "SkyCast",
+        "id": 5,
+        "description": "Weatherly is a weather forecasting application designed to provide accurate, real-time information about current conditions, hourly updates, and long-term forecasts. The app presents data through a visually appealing and user-friendly interface that includes temperature, humidity, wind speed, precipitation chances, and air quality metrics. Weatherly allows users to view detailed forecasts for multiple locations, set notifications for severe weather alerts, and receive daily weather summaries. The app integrates radar and satellite imagery for users who want a visual representation of weather patterns. Additionally, Weatherly offers personalized features, such as sunrise and sunset times, pollen counts, and UV index tracking, catering to a variety of user needs. For those planning trips or outdoor activities, the app provides extended forecasts and recommendations for appropriate clothing and safety precautions. Weatherly is optimized for minimal battery usage while delivering timely updates, and its data sources are regularly updated to ensure accuracy. With intuitive navigation and reliable forecasting, Weatherly is suitable for commuters, travelers, outdoor enthusiasts, and anyone who relies on up-to-date weather information to plan their day effectively.",
+        "size": 50,
+        "reviews": 3210,
+        "ratingAvg": 4.5,
+        "downloads": 670000,
+        "ratings": [
+            { "name": "1 star", "count": 60 },
+            { "name": "2 star", "count": 70 },
+            { "name": "3 star", "count": 230 },
+            { "name": "4 star", "count": 900 },
+            { "name": "5 star", "count": 1950 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/35DN8Hqw/Photo-Edit.webp",
+        "title": "PhotoEdit",
+        "companyName": "PixLab",
+        "id": 6,
+        "description": "PhotoEdit is a comprehensive photo editing application designed for users of all skill levels, from beginners to professionals. The app provides a wide range of editing tools including cropping, resizing, color correction, brightness and contrast adjustment, filters, and special effects. PhotoEdit allows users to layer images, add text, stickers, and frames, and apply advanced features such as selective adjustments, curves, and lens correction. Users can work with multiple image formats and export final results in high-resolution quality suitable for printing or online sharing. PhotoEdit also includes AI-powered features for automatic enhancements, background removal, and object detection, making complex edits simple and efficient. Users can save their editing presets, collaborate on projects with friends or colleagues, and access tutorials to improve their skills. Cloud integration ensures that projects are securely saved and can be accessed across devices. PhotoEdit is designed for both casual users who want quick edits and professionals who require precise control over their images. Its combination of intuitive design, powerful features, and creative flexibility makes it an ideal choice for anyone looking to enhance and transform photographs.",
+        "size": 75,
+        "reviews": 4125,
+        "ratingAvg": 4.7,
+        "downloads": 1150000,
+        "ratings": [
+            { "name": "1 star", "count": 45 },
+            { "name": "2 star", "count": 60 },
+            { "name": "3 star", "count": 220 },
+            { "name": "4 star", "count": 1225 },
+            { "name": "5 star", "count": 2575 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/NgZMndNz/Budget-Buddy.webp",
+        "title": "BudgetBuddy",
+        "companyName": "FinanceSoft",
+        "id": 7,
+        "description": "BudgetBuddy is a personal finance management application that helps users track their income, expenses, and savings goals in a clear and organized manner. The app allows users to create budgets for different categories, monitor spending patterns, and generate detailed reports to analyze financial behavior. BudgetBuddy supports multiple accounts, including bank accounts, credit cards, and digital wallets, allowing seamless synchronization and accurate tracking. Users can set up bill reminders, recurring payments, and alerts for overspending, which ensures better control over finances. The app provides insights into spending habits through visual charts, trends, and suggestions to optimize savings. BudgetBuddy also includes features for goal setting, helping users plan for large purchases, vacations, or emergency funds. Security is a top priority, with encryption, password protection, and secure cloud backups. With its intuitive interface, comprehensive tracking tools, and personalized insights, BudgetBuddy empowers users to make informed financial decisions, maintain financial discipline, and work towards long-term financial stability.",
+        "size": 58,
+        "reviews": 2430,
+        "ratingAvg": 4.6,
+        "downloads": 5300000,
+        "ratings": [
+            { "name": "1 star", "count": 35 },
+            { "name": "2 star", "count": 50 },
+            { "name": "3 star", "count": 180 },
+            { "name": "4 star", "count": 870 },
+            { "name": "5 star", "count": 1295 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/5hmf13fS/Meditopia.webp",
+        "title": "Meditopia",
+        "companyName": "MindWell",
+        "id": 8,
+        "description": "Meditopia is a meditation and mindfulness application designed to help users reduce stress, improve focus, and enhance overall mental well-being. The app offers a variety of guided meditations, breathing exercises, sleep stories, and mindfulness practices suitable for all experience levels. Users can choose meditation durations, focus areas such as anxiety, sleep, or concentration, and track their progress over time. Meditopia provides personalized recommendations based on user preferences, mood tracking, and session history. The app also includes calming music, nature sounds, and ambient soundscapes to aid relaxation. Daily reminders and motivational quotes encourage consistent practice, while analytics provide insights into meditation habits and improvements in mental health. Community features allow users to connect with others, share experiences, and join challenges to foster engagement and accountability. Meditopia ensures user privacy by securely storing data and offering optional password protection. With its combination of guided content, flexibility, and insightful tracking, Meditopia is ideal for individuals seeking to develop mindfulness habits and maintain emotional well-being in a busy lifestyle.",
+        "size": 62,
+        "reviews": 3015,
+        "ratingAvg": 4.7,
+        "downloads": 6800000,
+        "ratings": [
+            { "name": "1 star", "count": 30 },
+            { "name": "2 star", "count": 55 },
+            { "name": "3 star", "count": 150 },
+            { "name": "4 star", "count": 940 },
+            { "name": "5 star", "count": 1840 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/d0KfvVRz/Study-Helper.webp",
+        "title": "StudyHelper",
+        "companyName": "LearnWell",
+        "id": 9,
+        "description": "StudyHelper is an educational application designed to enhance learning for students of all ages. The app offers interactive lessons, quizzes, and practice exercises across multiple subjects including mathematics, science, language arts, and social studies. StudyHelper allows users to track their progress, set study schedules, and receive personalized recommendations based on strengths and weaknesses. The app includes visual aids, flashcards, and educational games to make learning engaging and effective. Students can take notes, bookmark important topics, and participate in discussion forums for collaborative learning. StudyHelper also integrates with cloud storage to save progress and access materials across multiple devices. Performance analytics provide detailed insights into areas that need improvement, helping students focus on subjects where they require extra attention. Notifications remind users of upcoming study sessions and deadlines, promoting consistent learning habits. With its combination of interactive content, structured planning, and performance tracking, StudyHelper is suitable for school students, college students, and lifelong learners aiming to improve knowledge and academic performance efficiently.",
+        "size": 55,
+        "reviews": 1985,
+        "ratingAvg": 4.6,
+        "downloads": 490000,
+        "ratings": [
+            { "name": "1 star", "count": 25 },
+            { "name": "2 star", "count": 45 },
+            { "name": "3 star", "count": 150 },
+            { "name": "4 star", "count": 750 },
+            { "name": "5 star", "count": 1015 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/TxcGp9VG/Travel-Mate.webp",
+        "title": "TravelMate",
+        "companyName": "GlobeTrek",
+        "id": 10,
+        "description": "TravelMate is a travel planning and itinerary management application designed to make trips more organized and enjoyable. Users can create detailed itineraries, track bookings, and manage activities for vacations, business trips, or weekend getaways. The app provides recommendations for destinations, hotels, restaurants, and attractions based on user preferences, budget, and travel history. TravelMate integrates maps, GPS navigation, and offline access to ensure users can navigate easily even without internet connectivity. The app allows users to store travel documents, tickets, and reservation details securely in one place. Notifications and reminders help users stay on schedule and avoid missing important flights or events. TravelMate also includes a budgeting tool to track expenses and suggest ways to save. Users can share itineraries with friends or family and receive collaborative feedback. Reviews and ratings for attractions and services guide users in making informed decisions. With its intuitive interface, comprehensive features, and travel-focused tools, TravelMate is ideal for frequent travelers, tourists, and anyone looking to plan seamless and stress-free trips.",
+        "size": 70,
+        "reviews": 2750,
+        "ratingAvg": 4.5,
+        "downloads": 6200000,
+        "ratings": [
+            { "name": "1 star", "count": 50 },
+            { "name": "2 star", "count": 65 },
+            { "name": "3 star", "count": 210 },
+            { "name": "4 star", "count": 910 },
+            { "name": "5 star", "count": 1515 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/bMjvSfsM/Habit-Tracker.webp",
+        "title": "HabitTracker",
+        "companyName": "RoutineWorks",
+        "id": 11,
+        "description": "HabitTracker is a productivity and self-improvement app designed to help users build positive habits and break negative ones through structured tracking and motivation. Users can create custom habits, set daily, weekly, or monthly goals, and receive reminders to maintain consistency. HabitTracker offers detailed visual statistics and charts, showing streaks, completion rates, and progress trends over time, helping users understand patterns and areas that need improvement. The app includes motivational features such as badges, achievements, and community challenges to encourage accountability and engagement. Users can schedule habits with flexible timing, mark partial completions, and note reflections or observations for each day. HabitTracker also allows exporting progress reports, which can be shared with coaches, mentors, or friends for collaborative accountability. Privacy is maintained through optional password protection and cloud synchronization, ensuring data is accessible across devices while remaining secure. By combining habit science, behavioral insights, and user-friendly design, HabitTracker empowers individuals to develop sustainable routines, improve productivity, and maintain personal growth over the long term.",
+        "size": 48,
+        "reviews": 2190,
+        "ratingAvg": 4.6,
+        "downloads": 4900000,
+        "ratings": [
+            { "name": "1 star", "count": 22 },
+            { "name": "2 star", "count": 40 },
+            { "name": "3 star", "count": 155 },
+            { "name": "4 star", "count": 890 },
+            { "name": "5 star", "count": 1083 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/LDRs8jR0/News-Flash.webp",
+        "title": "NewsFlash",
+        "companyName": "InfoStream",
+        "id": 12,
+        "description": "NewsFlash is a news aggregation and reading application that keeps users informed about current events from around the world. The app collects news from multiple trusted sources, categorizing articles into topics such as politics, technology, sports, entertainment, and business. Users can customize their news feed based on interests, region, or source preferences. NewsFlash offers push notifications for breaking news, as well as daily summaries and trending story highlights. The app includes features like offline reading, bookmarking, and text-to-speech for convenient consumption on the go. Users can comment on articles, share stories with friends or social networks, and save favorite sources for future reference. An AI-powered recommendation system suggests articles based on reading history and preferences, ensuring a personalized experience. NewsFlash also provides fact-checking alerts and source credibility indicators to enhance information reliability. With a clean interface, fast loading times, and diverse content coverage, NewsFlash is suitable for readers who want to stay updated with relevant and trustworthy information efficiently.",
+        "size": 65,
+        "reviews": 3345,
+        "ratingAvg": 4.5,
+        "downloads": 8800000,
+        "ratings": [
+            { "name": "1 star", "count": 48 },
+            { "name": "2 star", "count": 56 },
+            { "name": "3 star", "count": 225 },
+            { "name": "4 star", "count": 1120 },
+            { "name": "5 star", "count": 1892 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/G4bVWFLL/Dream-Tech.webp",
+        "title": "SleepWell",
+        "companyName": "DreamTech",
+        "id": 13,
+        "description": "SleepWell is a health-focused app designed to improve sleep quality through tracking, insights, and guided exercises. Users can monitor sleep patterns using the app’s smart tracking features, which record duration, quality, and cycles. SleepWell provides personalized recommendations to improve rest based on recorded patterns and lifestyle inputs. The app offers guided meditations, calming music, white noise, and bedtime stories to help users fall asleep faster and enjoy deeper rest. Users can set alarms that wake them during the optimal sleep phase, ensuring they feel refreshed and energized. SleepWell includes daily and weekly sleep summaries, highlighting trends and potential disruptions. The app also provides tips on sleep hygiene, such as room environment optimization and evening routines. Users can connect wearable devices to gather more accurate data or manually input sleep information. Privacy and security are prioritized, with all data stored securely and backed up via the cloud. By combining sleep science, tracking technology, and relaxing content, SleepWell is ideal for anyone struggling with insomnia, irregular sleep, or seeking to improve overall wellness through better rest.",
+        "size": 60,
+        "reviews": 2870,
+        "ratingAvg": 4.7,
+        "downloads": 5700000,
+        "ratings": [
+            { "name": "1 star", "count": 28 },
+            { "name": "2 star", "count": 42 },
+            { "name": "3 star", "count": 160 },
+            { "name": "4 star", "count": 910 },
+            { "name": "5 star", "count": 1530 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/V0r7s8Nf/ShopEasy.webp",
+        "title": "ShopEasy",
+        "companyName": "RetailPro",
+        "id": 14,
+        "description": "ShopEasy is an e-commerce and shopping assistant app designed to simplify the online shopping experience. Users can browse a wide range of products from multiple categories including electronics, fashion, home goods, and groceries. ShopEasy provides detailed product descriptions, images, reviews, and ratings to help users make informed purchasing decisions. The app allows users to create shopping lists, track orders, compare prices, and receive notifications for discounts and deals. ShopEasy also integrates secure payment gateways and supports multiple payment methods for convenience. Users can track delivery status in real-time and manage returns or exchanges efficiently. Personalized recommendations are generated based on browsing history and preferences, enhancing the shopping experience. ShopEasy includes community reviews, Q&A sections, and product wishlists. Data privacy is ensured through encrypted transactions and optional account security settings. By combining convenience, reliability, and an intuitive interface, ShopEasy is suitable for casual shoppers, deal hunters, and frequent online buyers.",
+        "size": 80,
+        "reviews": 4520,
+        "ratingAvg": 4.6,
+        "downloads": 1120000,
+        "ratings": [
+            { "name": "1 star", "count": 55 },
+            { "name": "2 star", "count": 68 },
+            { "name": "3 star", "count": 245 },
+            { "name": "4 star", "count": 1320 },
+            { "name": "5 star", "count": 2832 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Gvz81Y8w/Language-Buddy.webp",
+        "title": "LanguageBuddy",
+        "companyName": "LinguaTech",
+        "id": 15,
+        "description": "LanguageBuddy is a language learning application designed to make mastering a new language engaging, interactive, and effective. The app supports multiple languages, offering lessons in vocabulary, grammar, pronunciation, reading, writing, and speaking. Users can follow structured courses or create custom learning paths tailored to their level and goals. LanguageBuddy includes interactive exercises, quizzes, and games to reinforce knowledge, along with speech recognition technology for pronunciation practice. Users can track progress, earn achievements, and receive personalized recommendations based on strengths and areas for improvement. The app also includes conversation simulations, cultural tips, and real-world scenarios to help users practice practical language skills. Offline access ensures learning can continue without internet connectivity. Community features allow learners to practice with peers, exchange tips, and participate in group challenges. LanguageBuddy emphasizes consistency, engagement, and real-world applicability, making it suitable for students, professionals, and travelers looking to acquire or improve language skills efficiently.",
+        "size": 68,
+        "reviews": 2985,
+        "ratingAvg": 4.7,
+        "downloads": 7200000,
+        "ratings": [
+            { "name": "1 star", "count": 32 },
+            { "name": "2 star", "count": 48 },
+            { "name": "3 star", "count": 175 },
+            { "name": "4 star", "count": 920 },
+            { "name": "5 star", "count": 1510 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/YKBh0g9/Fitness-Coach.webp",
+        "title": "FitnessCoach",
+        "companyName": "ActiveLife",
+        "id": 16,
+        "description": "FitnessCoach is an all-in-one personal training app designed to help users achieve their fitness goals through guided workouts, personalized plans, and progress tracking. The app offers a variety of workout routines, including strength training, cardio, HIIT, yoga, and stretching exercises. Users can set fitness goals, choose difficulty levels, and track performance over time with detailed statistics such as calories burned, workout duration, and progress charts. FitnessCoach provides video demonstrations, audio instructions, and motivational prompts to ensure proper technique and engagement. The app also integrates with wearable devices to sync data automatically, allowing users to monitor heart rate, steps, and overall activity. Users can schedule workouts, receive reminders, and join community challenges for extra motivation. FitnessCoach includes nutrition guidance, meal tracking, and hydration reminders to support a holistic approach to health. Privacy is maintained through secure cloud storage and optional password protection. By combining structured training, analytics, and interactive guidance, FitnessCoach empowers individuals to maintain an active lifestyle and achieve long-term fitness success.",
+        "size": 72,
+        "reviews": 3320,
+        "ratingAvg": 4.6,
+        "downloads": 8500000,
+        "ratings": [
+            { "name": "1 star", "count": 40 },
+            { "name": "2 star", "count": 55 },
+            { "name": "3 star", "count": 200 },
+            { "name": "4 star", "count": 1015 },
+            { "name": "5 star", "count": 2010 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/chkhvynY/Recipe-Box.webp",
+        "title": "RecipeBox",
+        "companyName": "CulinarySoft",
+        "id": 17,
+        "description": "RecipeBox is a cooking and recipe management application that allows users to discover, organize, and share recipes effortlessly. The app includes a vast library of recipes from various cuisines, each with detailed ingredient lists, step-by-step instructions, and nutritional information. Users can create personal collections, categorize recipes, and save favorites for easy access. RecipeBox also offers meal planning tools, shopping list generation, and ingredient substitution suggestions to simplify cooking. Users can upload their own recipes, share them with friends, and participate in cooking communities. The app includes video tutorials, timer integration, and cooking tips to enhance the user experience. Personalized recommendations are generated based on past activity, dietary preferences, and trending recipes. Cloud synchronization ensures that all saved recipes are accessible across multiple devices, while privacy settings allow users to manage shared content. With its combination of organization, discovery, and interactive features, RecipeBox is perfect for home cooks, food enthusiasts, and anyone looking to expand their culinary skills efficiently.",
+        "size": 64,
+        "reviews": 2765,
+        "ratingAvg": 4.7,
+        "downloads": 6100000,
+        "ratings": [
+            { "name": "1 star", "count": 25 },
+            { "name": "2 star", "count": 40 },
+            { "name": "3 star", "count": 160 },
+            { "name": "4 star", "count": 875 },
+            { "name": "5 star", "count": 1665 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/hJN8P3xs/MindMap.webp",
+        "title": "MindMap",
+        "companyName": "BrainTech",
+        "id": 18,
+        "description": "MindMap is a brainstorming and idea visualization app designed to help users organize thoughts, plan projects, and enhance creativity. Users can create digital mind maps with nodes, branches, and color-coded categories to represent ideas and relationships clearly. MindMap allows attaching notes, images, and links to each node, enabling detailed documentation of concepts. The app includes collaboration features, allowing multiple users to work on a mind map simultaneously and comment on ideas in real-time. MindMap also provides templates for project planning, study notes, and creative writing to speed up idea organization. Export options such as PDF, PNG, and interactive HTML make sharing easy. The app supports cloud synchronization, ensuring all mind maps are accessible across devices. Advanced search and filter tools allow users to locate ideas quickly. MindMap is suitable for students, professionals, and creative thinkers who want a structured yet flexible way to capture and develop ideas effectively.",
+        "size": 55,
+        "reviews": 1920,
+        "ratingAvg": 4.6,
+        "downloads": 4800000,
+        "ratings": [
+            { "name": "1 star", "count": 20 },
+            { "name": "2 star", "count": 35 },
+            { "name": "3 star", "count": 145 },
+            { "name": "4 star", "count": 780 },
+            { "name": "5 star", "count": 940 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/MxffXvTH/Budget-Planner.webp",
+        "title": "BudgetPlanner",
+        "companyName": "MoneyMind",
+        "id": 19,
+        "description": "BudgetPlanner is a financial planning app designed to help users manage income, expenses, and savings goals with clarity and efficiency. Users can create monthly budgets, categorize spending, and monitor cash flow to understand where money is going. The app provides visual analytics, charts, and trend reports to help users make informed financial decisions. BudgetPlanner supports multiple accounts, recurring transactions, bill reminders, and expense alerts to maintain financial discipline. Users can set financial goals for savings, debt repayment, or major purchases and track progress toward them. The app also offers tips for optimizing budgets and reducing unnecessary expenses. Security features include password protection, encryption, and secure cloud backup. BudgetPlanner is ideal for individuals, families, and small business owners who want a simple yet comprehensive tool to achieve financial stability and make smarter money decisions.",
+        "size": 60,
+        "reviews": 2680,
+        "ratingAvg": 4.6,
+        "downloads": 5400000,
+        "ratings": [
+            { "name": "1 star", "count": 28 },
+            { "name": "2 star", "count": 40 },
+            { "name": "3 star", "count": 160 },
+            { "name": "4 star", "count": 870 },
+            { "name": "5 star", "count": 1282 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/p92Z4Vp/Event-Planner.webp",
+        "title": "EventPlanner",
+        "companyName": "PlanItAll",
+        "id": 20,
+        "description": "EventPlanner is a comprehensive event management app that allows users to plan, organize, and execute events efficiently. Users can create event schedules, manage guest lists, track RSVPs, and assign tasks to team members. The app provides tools for budgeting, vendor management, and resource allocation to ensure smooth event execution. EventPlanner also includes calendar integration, reminders, and notifications to keep organizers on schedule. Users can attach documents, maps, and instructions to events, and share details with attendees for seamless communication. The app features analytics and reporting tools to review event success, monitor attendance, and optimize future planning. EventPlanner is suitable for personal, corporate, and community events, providing an intuitive and structured platform for organizing events with minimal stress and maximum efficiency.",
+        "size": 70,
+        "reviews": 2310,
+        "ratingAvg": 4.5,
+        "downloads": 5000000,
+        "ratings": [
+            { "name": "1 star", "count": 35 },
+            { "name": "2 star", "count": 45 },
+            { "name": "3 star", "count": 160 },
+            { "name": "4 star", "count": 860 },
+            { "name": "5 star", "count": 1210 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/qFVFwh7K/StudyHub.webp",
+        "title": "StudyHub",
+        "companyName": "ACCA",
+        "id": 21,
+        "description": "StudyHub is a comprehensive learning platform designed to support students and educators with tools for studying, collaboration, and knowledge management. Users can create digital notebooks, share study materials, and access curated content across various subjects. The app supports multimedia notes with text, images, audio, and video clips, making it easier to learn complex topics. StudyHub also includes flashcards, quizzes, and progress trackers to reinforce learning through repetition and engagement. A built-in calendar helps students organize schedules, track deadlines, and plan study sessions. Collaboration tools allow groups to create shared spaces for projects and discussions, while teachers can assign tasks, upload resources, and monitor student progress. StudyHub provides cloud synchronization, ensuring that notes and learning materials are available across devices. Offline mode allows users to continue studying without an internet connection. Security and privacy are prioritized, with encryption and access controls for shared files. StudyHub is ideal for students of all levels, offering an organized, interactive, and accessible approach to modern education.",
+        "size": 78,
+        "reviews": 3050,
+        "ratingAvg": 4.7,
+        "downloads": 6900000,
+        "ratings": [
+            { "name": "1 star", "count": 32 },
+            { "name": "2 star", "count": 45 },
+            { "name": "3 star", "count": 180 },
+            { "name": "4 star", "count": 890 },
+            { "name": "5 star", "count": 1903 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/pvhpF4pv/Clip-Master.webp",
+        "title": "ClipMaster",
+        "companyName": "VividSoft",
+        "id": 22,
+        "description": "ClipMaster is an advanced mobile and desktop video editing suite designed for creators, filmmakers, and social media enthusiasts. The platform supports multi-layer video editing with precise frame-by-frame control, color correction, keyframe animations, and motion tracking tools. Users can import footage in various formats, apply cinematic filters, and synchronize audio tracks for professional-quality results. ClipMaster also includes a library of transitions, text templates, and visual effects that simplify the production process. Cloud synchronization allows users to start editing on one device and continue on another seamlessly. The app supports 4K and HDR exports, optimized rendering, and direct uploads to major platforms such as YouTube, TikTok, and Instagram. Collaboration features let teams co-edit projects in real time, annotate clips, and leave feedback. A built-in tutorial hub and AI-assisted editing suggestions make ClipMaster suitable for both beginners and professionals seeking a powerful yet intuitive creative toolkit.",
+        "size": 142,
+        "reviews": 12800,
+        "ratingAvg": 4.5,
+        "downloads": 8300000,
+        "ratings": [
+            { "name": "1 star", "count": 340 },
+            { "name": "2 star", "count": 570 },
+            { "name": "3 star", "count": 1420 },
+            { "name": "4 star", "count": 3800 },
+            { "name": "5 star", "count": 6670 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/jkpG6HCM/Furnify.webp",
+        "title": "Furnify",
+        "companyName": "HomeArt Studios",
+        "id": 23,
+        "description": "Furnify is an all-in-one furniture design and visualization platform that brings home decoration into the digital era. It allows users to explore an extensive catalog of furniture and home decor products, visualize them in augmented reality, and create customized room layouts with a simple drag-and-drop interface. Using AR technology, users can see exactly how a piece of furniture fits within their existing space before making a purchase. The app also includes 3D rendering tools for interior designers, offering color and texture customization to match individual style preferences. Integrated shopping features connect directly to retailers, providing transparent pricing, delivery options, and reviews. Furnify includes mood boards, lighting simulations, and virtual showrooms for complete design immersion. The platform supports collaborative projects, allowing users to share room designs with family or clients for feedback. By combining inspiration, visualization, and purchase in one place, Furnify transforms the way people design their homes.",
+        "size": 96,
+        "reviews": 4900,
+        "ratingAvg": 4.6,
+        "downloads": 4100000,
+        "ratings": [
+            { "name": "1 star", "count": 120 },
+            { "name": "2 star", "count": 200 },
+            { "name": "3 star", "count": 410 },
+            { "name": "4 star", "count": 1700 },
+            { "name": "5 star", "count": 2470 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/HTckxSbt/GrowMate.webp",
+        "title": "GrowMate",
+        "companyName": "GreenLeaf Labs",
+        "id": 24,
+        "description": "GrowMate is an intelligent plant monitoring and management application that helps users cultivate healthy gardens both indoors and outdoors. The app connects to smart sensors that measure soil moisture, light exposure, and temperature, providing real-time feedback on plant conditions. Its AI-driven diagnostics analyze trends to predict potential issues such as overwatering, nutrient deficiency, or pest risks. Users can create custom profiles for each plant species, receiving tailored care recommendations, watering reminders, and seasonal tips. GrowMate’s database includes thousands of plants with detailed care guides and visual identification tools powered by image recognition. The app also integrates with home automation systems, enabling automatic irrigation control and lighting adjustments. Cloud-based data storage allows users to track long-term plant growth and share progress with the community. GrowMate combines smart technology, science-backed advice, and community engagement to turn plant care into a rewarding experience.",
+        "size": 61,
+        "reviews": 8100,
+        "ratingAvg": 4.8,
+        "downloads": 2300000,
+        "ratings": [
+            { "name": "1 star", "count": 80 },
+            { "name": "2 star", "count": 130 },
+            { "name": "3 star", "count": 410 },
+            { "name": "4 star", "count": 1800 },
+            { "name": "5 star", "count": 5680 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/39bFzG9n/Path-Finder.webp",
+        "title": "PathFinder",
+        "companyName": "TerraTech",
+        "id": 25,
+        "description": "PathFinder Maps is a next-generation navigation and mapping app designed for both urban travelers and outdoor explorers. It provides highly accurate real-time GPS navigation, 3D terrain views, and offline maps for remote areas. The app features traffic prediction based on AI algorithms that analyze live congestion patterns, helping users choose the fastest routes. It also includes hiking and cycling trails with elevation data, weather forecasts, and landmarks for safer travel. Users can create custom routes, save waypoints, and share locations with friends or colleagues. PathFinder integrates public transport data from multiple cities, showing bus, metro, and train schedules within one unified interface. Its AR View mode overlays directions directly onto the real world using a phone’s camera, enhancing situational awareness. With its combination of precision mapping, community route sharing, and offline reliability, PathFinder Maps serves everyone from commuters to adventurers seeking smarter navigation.",
+        "size": 125,
+        "reviews": 15400,
+        "ratingAvg": 4.4,
+        "downloads": 9200000,
+        "ratings": [
+            { "name": "1 star", "count": 480 },
+            { "name": "2 star", "count": 830 },
+            { "name": "3 star", "count": 2040 },
+            { "name": "4 star", "count": 5100 },
+            { "name": "5 star", "count": 6950 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/84n3srnm/Chatter-Box.webp",
+        "title": "ChatterBox",
+        "companyName": "NovaNet",
+        "id": 26,
+        "description": "ChatterBox is a fast, secure, and expressive messaging platform designed for personal and group communication. It supports text, voice, and video chats with end-to-end encryption to ensure privacy and safety. Users can share multimedia, send reactions, and create polls directly in chat threads. Customizable themes, animated stickers, and AI-powered message replies make conversations more engaging. The app features channels for community discussions and a built-in translation tool for cross-language communication. ChatterBox prioritizes speed and minimal data usage, even on low-bandwidth connections. Users can sync messages across devices through cloud backup and manage multiple accounts from a single interface. With group video calls, broadcast lists, and smart notifications, ChatterBox offers a dynamic, connected experience suitable for both casual users and professional teams.",
+        "size": 85,
+        "reviews": 20600,
+        "ratingAvg": 4.6,
+        "downloads": 12400000,
+        "ratings": [
+            { "name": "1 star", "count": 630 },
+            { "name": "2 star", "count": 870 },
+            { "name": "3 star", "count": 2010 },
+            { "name": "4 star", "count": 5500 },
+            { "name": "5 star", "count": 11590 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/1tS5RnH3/Streamify.webp",
+        "title": "Streamify",
+        "companyName": "VisionHub Media",
+        "id": 27,
+        "description": "Streamify TV is a comprehensive smart television control and entertainment platform that transforms how users interact with their screens. It unifies live TV, on-demand streaming, and smart home integration into one interface. Streamify offers personalized recommendations powered by viewing history, mood, and time of day. Users can control their TV with voice commands, mobile remotes, or wearable integration. The app supports multiple user profiles, parental controls, and watch party features for synchronized viewing with friends. Its adaptive streaming engine optimizes playback quality across devices and networks, reducing buffering even at lower bandwidths. Streamify integrates with popular streaming services and live sports channels, eliminating the need to switch between multiple apps. With seamless cloud sync, a sleek design, and intelligent content discovery, Streamify TV redefines the home entertainment experience.",
+        "size": 188,
+        "reviews": 9700,
+        "ratingAvg": 4.3,
+        "downloads": 7300000,
+        "ratings": [
+            { "name": "1 star", "count": 450 },
+            { "name": "2 star", "count": 820 },
+            { "name": "3 star", "count": 2010 },
+            { "name": "4 star", "count": 3400 },
+            { "name": "5 star", "count": 3020 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/wFgq1zRJ/Air-Stream.webp",
+        "title": "AirStream",
+        "companyName": "FlowMedia Inc.",
+        "id": 28,
+        "description": "AirStream is a next-generation content streaming platform that delivers movies, music, and podcasts in a personalized, ad-free environment. Built with adaptive streaming technology, it ensures smooth playback across devices and adjusts quality based on network speed. AirStream’s recommendation engine analyzes listening and viewing patterns to surface content that matches user preferences while promoting new discoveries. Users can create playlists, download content for offline viewing, and follow creators to stay updated. The platform supports multi-device synchronization, parental controls, and community discussions for shared interests. With its clean interface and integrated live events section, AirStream connects users not just to entertainment but to creators and communities around the world. Its robust security, cross-platform support, and consistent updates make it a leading choice for digital entertainment enthusiasts.",
+        "size": 154,
+        "reviews": 11200,
+        "ratingAvg": 4.7,
+        "downloads": 10500000,
+        "ratings": [
+            { "name": "1 star", "count": 270 },
+            { "name": "2 star", "count": 510 },
+            { "name": "3 star", "count": 1200 },
+            { "name": "4 star", "count": 3400 },
+            { "name": "5 star", "count": 7820 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/bR2kh1YR/Taskly.webp",
+        "title": "Taskly",
+        "companyName": "FocusWorks",
+        "id": 29,
+        "description": "Taskly is an intelligent to-do and productivity manager that helps individuals and teams organize their time effectively. It features smart task creation with natural language input, allowing users to schedule reminders simply by typing phrases like 'Meeting with team tomorrow at 10 AM.' Taskly organizes projects into lists, boards, and timelines, offering flexibility for personal and professional workflows. The app includes focus timers, progress charts, and integration with popular calendar tools. Collaboration features allow users to assign tasks, track completion, and comment in real time. Taskly’s AI assistant can suggest optimal schedules based on work patterns, preventing overload and improving focus. Offline mode, cloud sync, and end-to-end encryption ensure accessibility and security across all devices. With an elegant interface and goal-tracking system, Taskly turns daily planning into a habit that drives consistent productivity and balance.",
+        "size": 58,
+        "reviews": 6800,
+        "ratingAvg": 4.8,
+        "downloads": 4200000,
+        "ratings": [
+            { "name": "1 star", "count": 90 },
+            { "name": "2 star", "count": 150 },
+            { "name": "3 star", "count": 420 },
+            { "name": "4 star", "count": 1500 },
+            { "name": "5 star", "count": 4640 }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/sSmCHKv/unnamed.webp",
+        "title": "ArtifyStudio",
+        "companyName": "PixelCraft Co.",
+        "id": 30,
+        "description": "Artify Studio is a professional digital drawing and illustration app built for artists, designers, and creative thinkers. It offers a full suite of brushes, pencils, pens, and airbrush tools that mimic traditional media with remarkable realism. The app supports high-resolution canvases, multiple layers, and advanced blending modes for precise control over every stroke. Artify’s vector and raster engines work seamlessly together, allowing users to mix scalable design elements with freehand sketching in the same workspace. Its intuitive interface supports pressure-sensitive stylus input, touch gestures, and shortcut customization for a natural creative flow. Artify includes time-lapse recording to capture the drawing process, color harmony guides, and AI-assisted symmetry for pattern design. Cloud sync ensures that projects remain accessible across devices, while community galleries let artists share, discover, and collaborate. Whether you’re sketching concepts, illustrating comics, or painting detailed artwork, Artify Studio delivers the flexibility and power of a digital studio on any device.",
+        "size": 133,
+        "reviews": 15700,
+        "ratingAvg": 4.7,
+        "downloads": 7200000,
+        "ratings": [
+            { "name": "1 star", "count": 320 },
+            { "name": "2 star", "count": 490 },
+            { "name": "3 star", "count": 1230 },
+            { "name": "4 star", "count": 4200 },
+            { "name": "5 star", "count": 9460 }
+        ]
+    }
+]
