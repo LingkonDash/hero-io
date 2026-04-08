@@ -1,19 +1,16 @@
 import React from 'react';
-import { useParams } from 'react-router';
-import useFetchData from '../hooks/useFetchData';
-import Loading from './Shared/Loading';
+import { useLoaderData, useParams } from 'react-router';
+import ErrorPage from '../pages/ErrorPage';
 
 const AppDetails = () => {
 
   const { appName } = useParams();
 
-  const [data, loadingState] = useFetchData();
-
-
-  if (loadingState) return <Loading />;
+  const data = useLoaderData();
 
   const item = data.find(item => item.title === appName);
 
+  if(!item) return <ErrorPage errorType={'appError'}/>
 
   return (
     <div className='max-w-400 mx-auto p-5'>

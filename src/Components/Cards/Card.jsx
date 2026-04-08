@@ -6,7 +6,7 @@ const Card = ({ item }) => {
   const navigate = useNavigate();
 
   return (
-    <div onClick={() => navigate(`app-details/${item.title}`)} className="rounded-md bg-white p-4 shadow-md border border-gray-100 font-sans hover:scale-102 transition cursor-pointer">
+    <div onClick={() => navigate(`/app-details/${item.title}`)} className="rounded-md bg-white p-4 shadow-md border border-gray-100 font-sans hover:scale-102 transition cursor-pointer">
       <div className="relative mb-4 aspect-square overflow-hidden p-2">
         <img 
           src={item.image}

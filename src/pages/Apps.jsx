@@ -1,12 +1,12 @@
 import React from 'react';
-import useFetchData from '../hooks/useFetchData';
 import Cards from '../Components/Cards/Cards';
 import Loading from '../Components/Shared/Loading';
 import { CiSearch } from 'react-icons/ci';
+import { useLoaderData } from 'react-router';
 
 const Apps = () => {
 
-  const [data, loadingState] = useFetchData();
+  const data = useLoaderData();
 
 
   return (
@@ -29,13 +29,10 @@ const Apps = () => {
         </div>
       </div>
 
-      {
-        loadingState ?
-          <Loading />
-          : <div className='py-12'>
-            <Cards data={data} />
-          </div>
-      }
+
+      <div className='py-12'>
+        <Cards data={data} />
+      </div>
 
     </div>
   );
