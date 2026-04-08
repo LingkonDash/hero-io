@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import Navbar from '../Components/Navbar';
 import { Outlet, useLocation } from 'react-router';
 import Footer from '../Components/Footer';
+import { ToastContainer } from 'react-toastify';
 
 const Root = () => {
 
@@ -22,6 +23,8 @@ const Root = () => {
       <footer>
         <Footer />
       </footer>
+
+      <ToastContainer />
     </>
   );
 };

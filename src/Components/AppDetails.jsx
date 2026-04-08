@@ -1,16 +1,35 @@
-import React from 'react';
+import React, { useContext, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import ErrorPage from '../pages/ErrorPage';
+import { toast } from 'react-toastify';
+import { AppContext } from '../context/AppContext';
 
 const AppDetails = () => {
 
   const { appName } = useParams();
 
-  const data = useLoaderData();
+  //installed app context
+  const [installedApp, setInstalledApp] = useContext(AppContext);
 
+  const data = useLoaderData();
   const item = data.find(item => item.title === appName);
 
-  if(!item) return <ErrorPage errorType={'appError'}/>
+
+  const [isInstalled, setIsInstalled] = useState(false);
+  //install handler
+  const installHandler = () => {
+    if(installedApp.some(obj => obj.id === item.id)) {
+      toast.error(`${item.title} is already installed on your device`)
+      setIsInstalled(true)
+      return;
+    }
+    
+    setIsInstalled(true)
+    setInstalledApp([item, ...installedApp])
+    toast.success(`Successfully installed ${item.title} on your device`)
+  }
+
+  if (!item) return <ErrorPage errorType={'appError'} />
 
   return (
     <div className='max-w-400 mx-auto p-5'>
@@ -73,8 +92,13 @@ const AppDetails = () => {
           </div>
 
           {/* Installed Badge */}
-          <button className="btn rounded-md bg-[#00d084] px-4 py-2 text-sm font-bold text-white">
-            Install Now ({item.size} MB)
+          <button
+            onClick={installHandler}
+            className="btn rounded-md bg-[#00d084] px-4 py-2 text-sm font-bold text-white"
+          >
+            {
+              isInstalled ? 'Installed' : `Install Now (${item.size} MB)`
+            }
           </button>
         </div>
       </div>
