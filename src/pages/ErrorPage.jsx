@@ -6,6 +6,7 @@ const ErrorPage = ({errorType}) => {
 
   return (
     <div className='flex justify-center items-center h-[80vh]'>
+      <h1>Something wrong accoured. plese reload or recheck if possible</h1>
       {
         errorType === 'error404' && <img src={error404} alt="appError" /> ||
         errorType === 'appError' && <img src={appError} alt="appError" />
