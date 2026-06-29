@@ -94,6 +94,9 @@ The main goal was to practice:
 
 ---
 
+## Author
+Lingkon Dash
+
 ## 📌 Final Note
 
 This is a learning-focused project, so the UI is simple but the core logic and functionality are the main focus.
