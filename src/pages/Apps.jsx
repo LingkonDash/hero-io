@@ -14,7 +14,7 @@ const Apps = () => {
 
       <div className='space-y-3 text-center'>
         <h2 className='font-bold text-4xl'>Our All Applications</h2>
-        <p className='text-gray-400 text-lg '>Explore All Apps on the Market developed by us. We code for Millions</p>
+        <p className='text-gray-400 text-lg '>Explore All Apps on the Market developed by us. We code for Millions, Solve for billions</p>
       </div>
 
       <div>
