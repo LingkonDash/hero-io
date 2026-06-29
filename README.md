@@ -58,7 +58,7 @@ This project was created as part of an assignment to strengthen understanding of
 
 ---
 
-## 📦 Data Structure
+## 📦 Json Data Structure
 
 Each app follows this structure:
 
