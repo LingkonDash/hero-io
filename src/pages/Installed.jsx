@@ -32,7 +32,7 @@ const Installed = () => {
 
       <div className='space-y-3 text-center'>
         <h2 className='font-bold text-4xl'>Your Installed Apps</h2>
-        <p className='text-gray-400 text-lg '>Explore All Trending Apps on the Market developed by us</p>
+        <p className='text-gray-400 text-lg '>Explore All Trending Apps on the Market developed by us. Dont forget to leave a review.</p>
       </div>
 
       <div>
